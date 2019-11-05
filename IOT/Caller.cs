@@ -13,6 +13,7 @@ namespace IOT
     
     public class MetricsPayload
     {
+
         public int counter { get; set; }
         public DateTime dateTime { get; set; }
         public string deviceName { get; set; }
